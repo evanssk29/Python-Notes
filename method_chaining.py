@@ -18,11 +18,5 @@ class Car:
 car = Car()
 
 
-<<<<<<< HEAD
-(car.drive()
- .turn_off()
- .brake()
- .turn_on())
-=======
 car.drive().turn_off().brake().turn_on()
->>>>>>> origin/master
+
